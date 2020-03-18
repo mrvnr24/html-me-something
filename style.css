@@ -1,0 +1,70 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 50px 50px 25px 125px;
+    background-color: slategrey;
+    font-size: large;
+}
+
+header {
+    padding: 50px 50px 0px 25px;
+}
+
+main {
+    padding: 25px 50px 25px 25px;
+}
+
+footer {
+    padding: 0px 50px 25px 25px;
+}
+header, main, footer {
+    background-color: lavender;
+}
+
+header h1 {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    margin: 25px;
+}
+
+h1 {
+    font-size: xx-large;
+    color: rebeccapurple;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+h2 {
+    font-size: x-large;
+    color: rebeccapurple;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+h3 {
+    color: rebeccapurple;
+    font-weight: bold;
+}
+
+img {
+    padding-top: 25px;
+    max-width: 100%;
+}
+
+#quote-style {
+    color: blueviolet;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+    padding-bottom: 25px;
+}
+
+p {
+    font-style: inherit;
+}
+
+.space-bottom {
+    padding-bottom: 25px;
+}
